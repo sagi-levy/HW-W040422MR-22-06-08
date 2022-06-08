@@ -1,0 +1,10 @@
+body {
+  background-color: blue;
+}
+#myname {
+  font-family: sans-serif;
+  font-size: 8vh;
+}
+body h1 {
+  text-align: center;
+}
